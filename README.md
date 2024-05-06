@@ -1,3 +1,3 @@
 # My WebStore 
 
-![my_webstore](https://imgur.com/a/yKpkhwl)
+![my_webstore](https://i.imgur.com/3XJOiIW.gif)
